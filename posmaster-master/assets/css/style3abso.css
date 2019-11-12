@@ -1,0 +1,46 @@
+/*Css 3abso */
+#b{
+    background-color: blue;
+}
+
+#centre
+{
+ margin: 1em 25%;
+ background-color: #FFF;
+}
+
+#gauche
+{
+ position: absolute;
+ top: 5.7em;
+ left: 1%;
+ width: 18%;
+}
+
+#droite
+{
+ position: absolute;
+ top: 5.7em;
+ right: 1%;
+ width: 18%;
+}
+
+.aqua
+{
+ background-color: #00FFFF; /* aqua */
+} 
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+   

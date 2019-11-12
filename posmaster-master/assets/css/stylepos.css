@@ -1,0 +1,61 @@
+/*CSS Pos */
+.jaune {
+    background-color: #ffff00;
+    position: relative;
+}
+
+.verte {
+    background-color: #00ff00;
+}
+
+.text {
+    background-color: #ffff00;
+    position: relative;
+    bottom: 10px;
+    left: 3em;
+}
+
+#int {
+    background-color: #ffff00;
+    position: absolute;
+    top: 1em;
+    right: 1em;
+}
+
+#ext {
+    position: relative;
+    background-color: #00ff00;
+    width: 15em;
+}
+
+#int2 {
+    background-color: #ffff00;
+    position: absolute;
+    width: 10em;
+    top: 40px;
+
+}
+
+#ext2 {
+    position: relative;
+    background-color: #00ff00;
+    width: 15em;
+    padding-top: 5em;
+}
+
+#int3 {
+    background-color: #ffff00;
+    position: absolute;
+    width: 4em;
+    top: 10px;
+    margin-left: 10em;
+    
+    
+}
+
+#ext3 {
+    position: relative;
+    background-color: #00ff00;
+    width: 15em;
+    padding-right: 6em;
+}

@@ -1,0 +1,37 @@
+/*CSS menufixe*/
+.menufixef {
+    border: 1px solid #000000;
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    line-height: 2em;
+    top: -1em;
+    left:0.5%;
+    right:1%; 
+    width: 17%;
+    height: 8%;
+    background-color: #F7E2B5;
+}
+html>body .menufixef {
+position: fixed
+}
+.contentf {
+    z-index: 1;
+    padding-top: 3em;
+    width: 15%;
+    height: 5%;
+    border: 1px solid #000000;
+    padding: 1em 1%;
+    top: 30px;
+    left: 1.5%;
+    background-color: white;
+}
+
+.cadref {
+    border: 1px solid #000000;
+    width: 250%;
+ height: 50%;
+ background-color: #4C95CB;  
+}
+
+   /**/

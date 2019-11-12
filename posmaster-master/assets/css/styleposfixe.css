@@ -1,0 +1,40 @@
+/*CSS posfixe */
+.content {
+    width: 25%;
+    height: 45%;
+    border: 1px solid #000000;
+    padding: 1em 1%;
+    top: 30px;
+    left: 1.5%;
+    background-color: white;
+}
+
+.menu {
+ position: absolute;
+ top: 1.5em;
+ right: 63%;
+ border: 1px solid #000000;
+ padding: 1em;
+ width: 70px;
+ height: 70px;
+ background-color: #BEE3FF;
+}
+
+.cadre {
+    border: 1px solid #000000;
+    width: 500px;
+ height: 380px;
+ background-color: #4C95CB;  
+}
+
+html>body .menu {
+ position: fixed;
+}
+
+html>body .content {
+    position: fixed;
+}
+
+html>body .cadre {
+    position: fixed;
+}
